@@ -1,2 +1,2 @@
-# tyleransom.github.io
-Repository for Tyler Ransom's academic research website.
+# DRSY.github.io
+Repository for roy's academic research website.
