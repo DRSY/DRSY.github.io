@@ -27,27 +27,27 @@ I am generally interested in natural language processing. Current interests incl
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
 **Pruning Pre-trained Language Models with Principled Importance and Self-regularization**  
-*Siyu Ren*, Kenny Q. Zhu$^\dagger$  
+***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 Findings of ACL 2023. [[arxiv]](https://arxiv.org/abs/2305.12394) [[github]](https://github.com/DRSY/PINS)  
 
 **Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
-*Qi Jia*, Siyu Ren, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
+Qi Jia, ***Siyu Ren***, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
 Arxiv. [[arxiv]](https://arxiv.org/abs/2210.09894). 
 
 **Specializing Pre-trained Language Models for Better Relational Reasoning via Network Pruning**  
-*Siyu Ren*, Kenny Q. Zhu$^\dagger$  
+***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 Findings of NAACL 2022. [[arxiv]](https://aclanthology.org/2022.findings-naacl.169/) [[github]](https://github.com/DRSY/LAMP)  
 
 **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**  
-*Siyu Ren*, Kenny Q. Zhu$^\dagger$  
+***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 NAACL-HLT 2022. [[arxiv]](https://aclanthology.org/2022.naacl-main.300/) [[github]](https://github.com/DRSY/MoTIS)  
 
 **Knowledge-driven distractor generation for cloze-style multiple choice questions**  
-*Siyu Ren*, Kenny Q. Zhu$^\dagger$  
+***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 AAAI 2021. [[arxiv]](https://ojs.aaai.org/index.php/AAAI/article/view/16559) [[github]](https://github.com/DRSY/DGen)  
 
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
-Qi Jia, Yizhu Liu, *Siyu Ren*, Kenny Q. Zhu$^\dagger$  
+Qi Jia, Yizhu Liu, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 EMNLP 2020. [[arxiv]](https://aclanthology.org/2020.emnlp-main.150/) [[github]]()  
 
 
