@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I am currently a PhD student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received the bachelor degree in Computer Science from Tong Ji University in 2019. 
+I am currently a PhD student in [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received the bachelor's degree in Computer Science from Tong Ji University in 2019. 
 
 
 # Research
@@ -29,6 +29,10 @@ I am generally interested in natural language processing. Current interests incl
 **Pruning Pre-trained Language Models with Principled Importance and Self-regularization**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 Findings of ACL 2023. [[arxiv]](https://arxiv.org/abs/2305.12394) [[github]](https://github.com/DRSY/PINS)  
+
+**Low-Rank Prune-And-Factorize for Language Model Compression**  
+***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
+Arxiv. [[arxiv]](https://arxiv.org/abs/2305.12394) 
 
 **Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
 Qi Jia, ***Siyu Ren***, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
