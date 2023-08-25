@@ -52,7 +52,7 @@ AAAI 2021. [[arxiv]](https://ojs.aaai.org/index.php/AAAI/article/view/16559) [[g
 
 **Combating Short Circuit Behavior in Natural Language Reasoning: Crossover and Mutation Operations for Enhanced Robustness**
 Shanshan Huang, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-ECAI 2023.
+ECAI 2023. [[arxiv]](https://www.cs.sjtu.edu.cn/~kzhu//papers/ecai23-ss.pdf)
 
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
 Qi Jia, Yizhu Liu, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
