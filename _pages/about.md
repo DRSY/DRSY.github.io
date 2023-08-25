@@ -50,6 +50,10 @@ NAACL-HLT 2022. [[arxiv]](https://aclanthology.org/2022.naacl-main.300/) [[githu
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 AAAI 2021. [[arxiv]](https://ojs.aaai.org/index.php/AAAI/article/view/16559) [[github]](https://github.com/DRSY/DGen)  
 
+**Combating Short Circuit Behavior in Natural Language Reasoning: Crossover and Mutation Operations for Enhanced Robustness**
+Shanshan Huang, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
+ECAI 2023.
+
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
 Qi Jia, Yizhu Liu, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 EMNLP 2020. [[arxiv]](https://aclanthology.org/2020.emnlp-main.150/) [[github]]()  
