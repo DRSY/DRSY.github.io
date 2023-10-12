@@ -26,9 +26,21 @@ I am generally interested in natural language processing. Current interests incl
 # Publications
 \* denotes co-first authors, $^\dagger$ denotes corresponding author/main advisor
 
+**Context Compression for Auto-regressive Transformers with Sentinel Tokens**  
+***Siyu Ren***, Qi Jia, Kenny Q. Zhu$^\dagger$  
+EMNLP 2023. [[github]](https://github.com/DRSY/KV_Compression)  
+
+**Zero-shot Faithfulness Evaluation for Text Summarization with Foundation Language Model**  
+Qi Jia, ***Siyu Ren***, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
+EMNLP 2023. [[github]]()  
+
+**Combating Short Circuit Behavior in Natural Language Reasoning: Crossover and Mutation Operations for Enhanced Robustness**  
+Shanshan Huang, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
+ECAI 2023. [[arxiv]](https://www.cs.sjtu.edu.cn/~kzhu//papers/ecai23-ss.pdf)  
+
 **Pruning Pre-trained Language Models with Principled Importance and Self-regularization**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-Findings of ACL 2023. [[arxiv]](https://arxiv.org/abs/2305.12394) [[github]](https://github.com/DRSY/PINS)  
+ACL 2023(Findings). [[arxiv]](https://arxiv.org/abs/2305.12394) [[github]](https://github.com/DRSY/PINS)  
 
 **Low-Rank Prune-And-Factorize for Language Model Compression**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
@@ -36,11 +48,11 @@ Arxiv. [[arxiv]](https://arxiv.org/abs/2306.14152)
 
 **Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
 Qi Jia, ***Siyu Ren***, Yizhu Liu, Kenny Q. Zhu$^\dagger$  
-Arxiv. [[arxiv]](https://arxiv.org/abs/2210.09894). 
+ACM Computing Survey. [[arxiv]](https://arxiv.org/abs/2210.09894). 
 
 **Specializing Pre-trained Language Models for Better Relational Reasoning via Network Pruning**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-Findings of NAACL 2022. [[arxiv]](https://aclanthology.org/2022.findings-naacl.169/) [[github]](https://github.com/DRSY/LAMP)  
+NAACL-HLT 2022(Findings). [[arxiv]](https://aclanthology.org/2022.findings-naacl.169/) [[github]](https://github.com/DRSY/LAMP)  
 
 **Leaner and Faster: Two-Stage Model Compression for Lightweight Text-Image Retrieval**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
@@ -50,17 +62,13 @@ NAACL-HLT 2022. [[arxiv]](https://aclanthology.org/2022.naacl-main.300/) [[githu
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
 AAAI 2021. [[arxiv]](https://ojs.aaai.org/index.php/AAAI/article/view/16559) [[github]](https://github.com/DRSY/DGen)  
 
-**Combating Short Circuit Behavior in Natural Language Reasoning: Crossover and Mutation Operations for Enhanced Robustness**  
-Shanshan Huang, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-ECAI 2023. [[arxiv]](https://www.cs.sjtu.edu.cn/~kzhu//papers/ecai23-ss.pdf)
-
 **Multi-turn Response Selection using Dialogue Dependency Relations**  
 Qi Jia, Yizhu Liu, ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-EMNLP 2020. [[arxiv]](https://aclanthology.org/2020.emnlp-main.150/) [[github]]()  
+EMNLP 2020. [[arxiv]](https://aclanthology.org/2020.emnlp-main.150/) [[github]](https://github.com/JiaQiSJTU/ResponseSelection)  
 
 
 # Service
-Reviewer: ACL
+Reviewer: ACL, NAACL, AAAI
 
 # Awards
 -	2021-2022 GuangHua Scholarship 
