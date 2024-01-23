@@ -28,7 +28,7 @@ I am generally interested in natural language processing. Current interests incl
 
 **EMO: Earth Mover Distance Optimization for Auto-regressive Language Modeling**  
 ***Siyu Ren***, Zhiyong Wu, Kenny Q. Zhu  
-Preprint. [[github]](https://github.com/DRSY/EMO)  [[arxiv]](https://arxiv.org/abs/2310.04691)  
+ICLR 2024. [[github]](https://github.com/DRSY/EMO)  [[arxiv]](https://arxiv.org/abs/2310.04691)  
 
 **Context Compression for Auto-regressive Transformers with Sentinel Tokens**  
 ***Siyu Ren***, Qi Jia, Kenny Q. Zhu$^\dagger$  
