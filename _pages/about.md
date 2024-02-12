@@ -28,7 +28,7 @@ I am generally interested in natural language processing. Current interests incl
 
 **On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference**  
 ***Siyu Ren***, Kenny Q. Zhu$^\dagger$  
-Under Review. [[github]](https://github.com/DRSY/EasyKV)  
+Under Review. [[arxiv]](https://arxiv.org/abs/2402.06262) [[github]](https://github.com/DRSY/EasyKV)  
 
 **EMO: Earth Mover Distance Optimization for Auto-regressive Language Modeling**  
 ***Siyu Ren***, Zhiyong Wu, Kenny Q. Zhu  
