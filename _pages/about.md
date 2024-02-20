@@ -52,7 +52,7 @@ ACL 2023(Findings). [[arxiv]](https://arxiv.org/abs/2305.12394) [[github]](https
 
 **Low-Rank Prune-And-Factorize for Language Model Compression**  
 ***Siyu Ren***, Kenny Q. Zhu  
-Preprint. [[arxiv]](https://arxiv.org/abs/2306.14152) 
+COLING 2024. [[arxiv]](https://arxiv.org/abs/2306.14152) 
 
 **Taxonomy of Abstractive Dialogue Summarization: Scenarios, Approaches and Future Directions**  
 Qi Jia, ***Siyu Ren***, Yizhu Liu, Kenny Q. Zhu  
