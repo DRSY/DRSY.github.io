@@ -26,9 +26,13 @@ I am generally interested in natural language processing. Current interests incl
 # Publications
 \* denotes co-first authors
 
+**Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models**  
+Fangzhi Xu, Zhiyong Wu, Qiushi Sun, ***Siyu Ren***, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu  
+ACL 2024. [[arxiv]](https://arxiv.org/abs/2311.09278) [[github]](https://github.com/xufangzhi/Symbol-LLM)  
+
 **On the Efficacy of Eviction Policy for Key-Value Constrained Generative Language Model Inference**  
 ***Siyu Ren***, Kenny Q. Zhu  
-Under Review. [[arxiv]](https://arxiv.org/abs/2402.06262) [[github]](https://github.com/DRSY/EasyKV)  
+Arxiv. [[arxiv]](https://arxiv.org/abs/2402.06262) [[github]](https://github.com/DRSY/EasyKV)  
 
 **EMO: Earth Mover Distance Optimization for Auto-regressive Language Modeling**  
 ***Siyu Ren***, Zhiyong Wu, Kenny Q. Zhu  
