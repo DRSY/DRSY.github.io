@@ -10,10 +10,10 @@ redirect_from:
 
 <!-- ## About Me -->
 
-I got my Ph.D degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) and was advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received my bachelor's degree in Computer Science from Tong Ji University in 2019. 
+I earned my Ph.D degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2024 and was advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received my bachelor's degree in Computer Science from Tong Ji University in 2019. 
 
 
-# Research
+# Research Interests
         
 I am generally interested in natural language processing. Current interests include: 
 - Efficient Language Models
