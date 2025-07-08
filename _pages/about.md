@@ -26,6 +26,10 @@ I am generally interested in natural language processing. Current interests incl
 # Publications
 \* denotes co-first authors
 
+**A Controlled Study on Long Context Extension and Generalization in LLMs**  
+Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T Chiu, **Siyu Ren**, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M Rush  
+COLM 2025.  [[arxiv]](https://arxiv.org/abs/2409.12181)  
+
 **Symbol-LLM: Towards Foundational Symbol-centric Interface For Large Language Models**  
 Fangzhi Xu, Zhiyong Wu, Qiushi Sun, ***Siyu Ren***, Fei Yuan, Shuai Yuan, Qika Lin, Yu Qiao, Jun Liu  
 ACL 2024. [[arxiv]](https://arxiv.org/abs/2311.09278) [[github]](https://github.com/xufangzhi/Symbol-LLM)  
