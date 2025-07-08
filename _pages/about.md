@@ -10,7 +10,7 @@ redirect_from:
 
 <!-- ## About Me -->
 
- I am currently engaged in the R&D related to large language models and multi-modal models at Meituan. I earned my Ph.D degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2024 and was advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). Before that, I received my bachelor's degree in Computer Science from Tong Ji University in 2019. 
+ I am currently engaged in the R&D related to large language models and multi-modal models at Meituan. I earned my Ph.D degree from [Shanghai Jiao Tong University](https://www.sjtu.edu.cn/) in 2024 and was advised by [Kenny Q. Zhu](https://www.cs.sjtu.edu.cn/~kzhu/). 
 
 
 # Research Interests
