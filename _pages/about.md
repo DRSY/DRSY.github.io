@@ -26,6 +26,18 @@ I am generally interested in natural language processing. Current interests incl
 # Publications
 \* denotes co-first authors
 
+**ACWM-RM: A Reference-Free Reward Model from Complementary Mismatch Preferences**  
+Shibo Hong, **Siyu Ren**, FengJiao Chen, Zhongyuan Peng, Wei Shi, Yixin Cao  
+Arxiv. [[arxiv]](https://arxiv.org/abs/2610.32222)  
+
+**ProWorld: Multi-View World Model with Proprioceptive Feedback for Closed-Loop Policy Evaluation**  
+Zijun Wang, Tianyi Yan, Haokun Lin, Panwen Hu, Bohang He, **Siyu Ren**, Xiaoyu Guo, Weijia Liufu, Shuoshuo Xue, Fengjiao Chen, Zipeng Ye, Xuezhi Cao, Zutao Jiang, Hanhui Li, Xiaodan Liang  
+Arxiv. [[arxiv]](https://arxiv.org/abs/2610.15294)  
+
+**WBench: A Comprehensive Multi-turn Benchmark for Interactive Video World Model Evaluation**  
+Kaining Ying, Hengrui Hu, **Siyu Ren**, Jiamu Li, Fengjiao Chen, Ziwen Wang, Xuezhi Cao, Xunliang Cai, Henghui Ding  
+Arxiv. [[arxiv]](https://arxiv.org/abs/2605.25874) [[github]](https://github.com/meituan-longcat/WBench)  
+
 **A Controlled Study on Long Context Extension and Generalization in LLMs**  
 Yi Lu, Jing Nathan Yan, Songlin Yang, Justin T Chiu, **Siyu Ren**, Fei Yuan, Wenting Zhao, Zhiyong Wu, Alexander M Rush  
 COLM 2025.  [[arxiv]](https://arxiv.org/abs/2409.12181)  
